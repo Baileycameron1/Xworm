@@ -1,3 +1,3 @@
 Hello people
 
-This is Xworm
+This is Xworm my image logger
